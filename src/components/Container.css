@@ -1,0 +1,79 @@
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  margin-top: -0.5rem;
+}
+
+.length-1 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 8.3333%;
+}
+
+.length-2 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 16.6667%;
+}
+
+.length-3 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 25%;
+}
+
+.length-4 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 33.3333%;
+}
+
+.length-5 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 41.6667%;
+}
+
+.length-6 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 50%;
+}
+
+.length-7 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 58.3333%;
+}
+
+.length-8 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 66.6667%;
+}
+
+.length-9 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 75%;
+}
+
+.length-10 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 83.3333%;
+}
+
+.length-11 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 91.6667%;
+}
+
+.length-12 {
+  flex: 0 0 auto;
+  padding: 30px;
+  width: 100%;
+}
